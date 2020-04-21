@@ -1,0 +1,17 @@
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\Searches\bin\Debug\Searches.dll
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\Searches\bin\Debug\Searches.pdb
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\Searches\bin\Debug\01 - Data Access Layer.dll
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\Searches\bin\Debug\02 - Data Transfer Objects.dll
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\Searches\bin\Debug\03 - Business Logic Layer.dll
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\Searches\bin\Debug\EntityFramework.dll
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\Searches\bin\Debug\01 - Data Access Layer.pdb
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\Searches\bin\Debug\01 - Data Access Layer.dll.config
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\Searches\bin\Debug\02 - Data Transfer Objects.pdb
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\Searches\bin\Debug\03 - Business Logic Layer.pdb
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\Searches\bin\Debug\03 - Business Logic Layer.dll.config
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\Searches\bin\Debug\EntityFramework.xml
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\Searches\obj\Debug\04 - Searches.csprojAssemblyReference.cache
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\Searches\obj\Debug\04 - Searches.csproj.CoreCompileInputs.cache
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\Searches\obj\Debug\04 - Searches.csproj.CopyComplete
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\Searches\obj\Debug\Searches.dll
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\Searches\obj\Debug\Searches.pdb

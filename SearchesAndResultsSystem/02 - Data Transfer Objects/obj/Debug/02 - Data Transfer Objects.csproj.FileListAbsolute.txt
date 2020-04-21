@@ -1,0 +1,12 @@
+C:\Moran Projects\פרוייקטים\Searches and Results system\02 - Data Transfer Objects\bin\Debug\02 - Data Transfer Objects.dll
+C:\Moran Projects\פרוייקטים\Searches and Results system\02 - Data Transfer Objects\bin\Debug\02 - Data Transfer Objects.pdb
+C:\Moran Projects\פרוייקטים\Searches and Results system\02 - Data Transfer Objects\obj\Debug\02 - Data Transfer Objects.csprojAssemblyReference.cache
+C:\Moran Projects\פרוייקטים\Searches and Results system\02 - Data Transfer Objects\obj\Debug\02 - Data Transfer Objects.csproj.CoreCompileInputs.cache
+C:\Moran Projects\פרוייקטים\Searches and Results system\02 - Data Transfer Objects\obj\Debug\02 - Data Transfer Objects.dll
+C:\Moran Projects\פרוייקטים\Searches and Results system\02 - Data Transfer Objects\obj\Debug\02 - Data Transfer Objects.pdb
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\02 - Data Transfer Objects\bin\Debug\02 - Data Transfer Objects.dll
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\02 - Data Transfer Objects\bin\Debug\02 - Data Transfer Objects.pdb
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\02 - Data Transfer Objects\obj\Debug\02 - Data Transfer Objects.csprojAssemblyReference.cache
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\02 - Data Transfer Objects\obj\Debug\02 - Data Transfer Objects.csproj.CoreCompileInputs.cache
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\02 - Data Transfer Objects\obj\Debug\02 - Data Transfer Objects.dll
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\02 - Data Transfer Objects\obj\Debug\02 - Data Transfer Objects.pdb

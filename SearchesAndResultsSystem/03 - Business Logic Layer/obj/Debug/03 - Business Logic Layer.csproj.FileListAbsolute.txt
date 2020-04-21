@@ -1,0 +1,34 @@
+C:\Moran Projects\פרוייקטים\Searches and Results system\03 - Business Logic Layer\bin\Debug\03 - Business Logic Layer.dll.config
+C:\Moran Projects\פרוייקטים\Searches and Results system\03 - Business Logic Layer\bin\Debug\03 - Business Logic Layer.dll
+C:\Moran Projects\פרוייקטים\Searches and Results system\03 - Business Logic Layer\bin\Debug\03 - Business Logic Layer.pdb
+C:\Moran Projects\פרוייקטים\Searches and Results system\03 - Business Logic Layer\bin\Debug\01 - Data Access Layer.dll
+C:\Moran Projects\פרוייקטים\Searches and Results system\03 - Business Logic Layer\bin\Debug\02 - Data Transfer Objects.dll
+C:\Moran Projects\פרוייקטים\Searches and Results system\03 - Business Logic Layer\bin\Debug\EntityFramework.dll
+C:\Moran Projects\פרוייקטים\Searches and Results system\03 - Business Logic Layer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Moran Projects\פרוייקטים\Searches and Results system\03 - Business Logic Layer\bin\Debug\01 - Data Access Layer.pdb
+C:\Moran Projects\פרוייקטים\Searches and Results system\03 - Business Logic Layer\bin\Debug\01 - Data Access Layer.dll.config
+C:\Moran Projects\פרוייקטים\Searches and Results system\03 - Business Logic Layer\bin\Debug\02 - Data Transfer Objects.pdb
+C:\Moran Projects\פרוייקטים\Searches and Results system\03 - Business Logic Layer\bin\Debug\EntityFramework.xml
+C:\Moran Projects\פרוייקטים\Searches and Results system\03 - Business Logic Layer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Moran Projects\פרוייקטים\Searches and Results system\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.csprojAssemblyReference.cache
+C:\Moran Projects\פרוייקטים\Searches and Results system\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.csproj.CoreCompileInputs.cache
+C:\Moran Projects\פרוייקטים\Searches and Results system\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.csproj.CopyComplete
+C:\Moran Projects\פרוייקטים\Searches and Results system\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.dll
+C:\Moran Projects\פרוייקטים\Searches and Results system\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.pdb
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\03 - Business Logic Layer\bin\Debug\03 - Business Logic Layer.dll.config
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\03 - Business Logic Layer\bin\Debug\03 - Business Logic Layer.dll
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\03 - Business Logic Layer\bin\Debug\03 - Business Logic Layer.pdb
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\03 - Business Logic Layer\bin\Debug\01 - Data Access Layer.dll
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\03 - Business Logic Layer\bin\Debug\02 - Data Transfer Objects.dll
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\03 - Business Logic Layer\bin\Debug\EntityFramework.dll
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\03 - Business Logic Layer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\03 - Business Logic Layer\bin\Debug\01 - Data Access Layer.pdb
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\03 - Business Logic Layer\bin\Debug\01 - Data Access Layer.dll.config
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\03 - Business Logic Layer\bin\Debug\02 - Data Transfer Objects.pdb
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\03 - Business Logic Layer\bin\Debug\EntityFramework.xml
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\03 - Business Logic Layer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.csprojAssemblyReference.cache
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.csproj.CoreCompileInputs.cache
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.csproj.CopyComplete
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.dll
+C:\Moran Projects\פרוייקטים\DotNet Third Project\Searches and Results system\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.pdb

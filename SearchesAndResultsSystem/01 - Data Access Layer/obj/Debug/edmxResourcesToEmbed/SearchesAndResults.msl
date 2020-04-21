@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SearchesAndResultsModelStoreContainer" CdmEntityContainer="SearchesAndResultsEntities">
+    <EntitySetMapping Name="Results">
+      <EntityTypeMapping TypeName="SearchesAndResultsModel.Result">
+        <MappingFragment StoreEntitySet="Results">
+          <ScalarProperty Name="ResultID" ColumnName="ResultID" />
+          <ScalarProperty Name="SearchID" ColumnName="SearchID" />
+          <ScalarProperty Name="FullPath" ColumnName="FullPath" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Searches">
+      <EntityTypeMapping TypeName="SearchesAndResultsModel.Search">
+        <MappingFragment StoreEntitySet="Searches">
+          <ScalarProperty Name="SearchID" ColumnName="SearchID" />
+          <ScalarProperty Name="TextToSearch" ColumnName="TextToSearch" />
+          <ScalarProperty Name="FolderToSearch" ColumnName="FolderToSearch" />
+          <ScalarProperty Name="SearchTime" ColumnName="SearchTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
